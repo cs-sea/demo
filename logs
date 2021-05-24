@@ -1,0 +1,117 @@
+2021-04-19 13:42:49,960 INFO RPC interface 'supervisor' initialized
+2021-04-19 13:42:49,960 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2021-04-19 13:42:49,962 INFO daemonizing the supervisord process
+2021-04-19 13:42:49,963 INFO supervisord started with pid 80400
+2021-04-19 13:42:50,968 INFO spawned: 'test' with pid 80406
+2021-04-19 13:42:51,670 INFO exited: test (exit status 0; not expected)
+2021-04-19 13:42:52,674 INFO spawned: 'test' with pid 80418
+2021-04-19 13:42:52,687 INFO exited: test (exit status 0; not expected)
+2021-04-19 13:42:54,692 INFO spawned: 'test' with pid 80434
+2021-04-19 13:42:54,705 INFO exited: test (exit status 0; not expected)
+2021-04-19 13:42:57,711 INFO spawned: 'test' with pid 80447
+2021-04-19 13:42:57,724 INFO exited: test (exit status 0; not expected)
+2021-04-19 13:42:58,725 INFO gave up: test entered FATAL state, too many start retries too quickly
+2021-04-19 13:49:48,576 INFO spawned: 'test' with pid 81994
+2021-04-19 13:49:50,300 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 13:56:58,310 INFO waiting for test to stop
+2021-04-19 13:56:58,319 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 13:56:58,325 INFO spawned: 'test' with pid 83462
+2021-04-19 13:56:59,340 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:26:00,791 INFO waiting for test to stop
+2021-04-19 16:26:00,793 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:26:00,805 INFO spawned: 'test' with pid 19280
+2021-04-19 16:26:01,848 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:33:16,812 INFO waiting for test to stop
+2021-04-19 16:33:16,827 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:33:16,834 INFO spawned: 'test' with pid 20814
+2021-04-19 16:33:17,854 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:33:49,357 INFO waiting for test to stop
+2021-04-19 16:33:49,359 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:33:49,365 INFO spawned: 'test' with pid 20840
+2021-04-19 16:33:50,687 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:33:55,195 INFO waiting for test to stop
+2021-04-19 16:33:55,197 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:33:55,201 INFO spawned: 'test' with pid 20841
+2021-04-19 16:33:56,508 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:42:08,623 INFO waiting for test to stop
+2021-04-19 16:42:08,624 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:42:08,629 INFO spawned: 'test' with pid 21203
+2021-04-19 16:42:09,652 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:42:19,173 INFO waiting for test to stop
+2021-04-19 16:42:19,180 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:42:19,185 INFO spawned: 'test' with pid 21210
+2021-04-19 16:42:20,449 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:43:13,716 INFO waiting for test to stop
+2021-04-19 16:43:13,722 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:43:13,728 INFO spawned: 'test' with pid 21270
+2021-04-19 16:43:14,754 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:43:24,064 INFO waiting for test to stop
+2021-04-19 16:43:24,066 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:43:24,071 INFO spawned: 'test' with pid 21283
+2021-04-19 16:43:25,091 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:22,591 INFO waiting for test to stop
+2021-04-19 16:44:22,593 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:22,598 INFO spawned: 'test' with pid 21341
+2021-04-19 16:44:23,618 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:24,263 INFO waiting for test to stop
+2021-04-19 16:44:24,264 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:24,268 INFO spawned: 'test' with pid 21342
+2021-04-19 16:44:25,285 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:25,998 INFO waiting for test to stop
+2021-04-19 16:44:26,000 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:26,008 INFO spawned: 'test' with pid 21349
+2021-04-19 16:44:27,028 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:46,325 INFO waiting for test to stop
+2021-04-19 16:44:46,327 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:46,332 INFO spawned: 'test' with pid 21367
+2021-04-19 16:44:47,353 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:47,884 INFO waiting for test to stop
+2021-04-19 16:44:47,886 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:47,891 INFO spawned: 'test' with pid 21374
+2021-04-19 16:44:48,905 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 16:44:49,474 INFO waiting for test to stop
+2021-04-19 16:44:49,476 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 16:44:49,483 INFO spawned: 'test' with pid 21381
+2021-04-19 16:44:50,501 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:32:21,974 INFO waiting for test to stop
+2021-04-19 20:32:21,975 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 20:32:21,986 INFO spawned: 'test' with pid 46468
+2021-04-19 20:32:23,031 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:32:28,183 INFO waiting for test to stop
+2021-04-19 20:32:28,185 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 20:32:28,190 INFO spawned: 'test' with pid 46473
+2021-04-19 20:32:29,206 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:32:29,964 INFO waiting for test to stop
+2021-04-19 20:32:29,966 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 20:32:29,971 INFO spawned: 'test' with pid 46474
+2021-04-19 20:32:30,985 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:08,909 INFO waiting for test to stop
+2021-04-19 20:33:08,911 INFO stopped: test (terminated by SIGTERM)
+2021-04-19 20:33:08,919 INFO spawned: 'test' with pid 46522
+2021-04-19 20:33:09,922 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:33,617 INFO waiting for test to stop
+2021-04-19 20:33:33,620 INFO stopped: test (exit status 255)
+2021-04-19 20:33:33,627 INFO spawned: 'test' with pid 46554
+2021-04-19 20:33:34,750 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:35,484 INFO waiting for test to stop
+2021-04-19 20:33:35,487 INFO stopped: test (exit status 255)
+2021-04-19 20:33:35,494 INFO spawned: 'test' with pid 46556
+2021-04-19 20:33:36,596 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:37,907 INFO waiting for test to stop
+2021-04-19 20:33:37,910 INFO stopped: test (exit status 255)
+2021-04-19 20:33:37,917 INFO spawned: 'test' with pid 46561
+2021-04-19 20:33:39,016 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:52,242 INFO waiting for test to stop
+2021-04-19 20:33:52,245 INFO stopped: test (exit status 255)
+2021-04-19 20:33:52,251 INFO spawned: 'test' with pid 46574
+2021-04-19 20:33:53,354 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:33:53,910 INFO waiting for test to stop
+2021-04-19 20:33:53,913 INFO stopped: test (exit status 255)
+2021-04-19 20:33:53,918 INFO spawned: 'test' with pid 46578
+2021-04-19 20:33:55,024 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-19 20:34:53,296 INFO exited: test (exit status 1; not expected)
+2021-04-19 20:34:54,300 INFO spawned: 'test' with pid 46618
+2021-04-19 20:34:55,409 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-04-20 09:05:36,633 INFO exited: test (exit status 1; not expected)
+2021-04-20 09:05:36,638 INFO spawned: 'test' with pid 65041
+2021-04-20 09:05:38,538 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
